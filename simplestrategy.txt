@@ -1,0 +1,4 @@
+A simple, general strategy to play a poker hand would be like this:
+-Estimate the villain's strategy given his history and stack size	
+-Predict the range of the villain given his strategy
+-Select action with biggest expected value
